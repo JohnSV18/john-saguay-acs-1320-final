@@ -1,0 +1,12 @@
+.HeadingMetalMeta {
+    display: flex;
+    justify-content: left;
+}
+.HeadingName{
+    display: flex;
+    justify-content: left;
+}
+.HeadingClass{
+    display: flex;
+    justify-content: left;
+}
